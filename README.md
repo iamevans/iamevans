@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 [Today I Learned](https://)
 - 🥋 I'm studying hard Algorithm and Data Structure 
-- 😁 I'm interested in AI Machine, Deep Learning
+- 😁 I'm interested in AI, Machine, Deep Learning
 - 🐱 Visit my Blog! [Velog](https://velog.io/@evans)
 
 **Languages and Tools :** 
@@ -66,10 +66,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 **My Career :** 
 
-| Type | Date | Contents | Organization |
+| Type | Date | Subject | Organization |
 | ---- | ---- | ---- | ---- |
 | Teacher | 2004.03 ~ 2009.02 | Web Programming | 성일정보고등학교 |
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
-| Teacher | 2011.03 ~  | Web Programming | 성일정보고등학교 |
+| Teacher | 2011.03 ~ 현재 | Web Programming | 성일정보고등학교 |
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
