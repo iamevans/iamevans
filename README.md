@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about me :**
  
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" /> 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 👨🏽‍💻 [Today I Learned](https://)
 - 🥋 I'm studying hard Algorithm and Data Structure 
