@@ -68,6 +68,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 | Type | Date | Subject | Organization |
 | ---- | ---- | ---- | ---- |
+| Teacher | 2000.06 ~ 2004.02 | 정보교과목 | 밀양세종고등학교 |
 | Teacher | 2004.03 ~ 2009.02 | Web Programming | 성일정보고등학교 |
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
 | Teacher | 2011.03 ~ 현재 | Web Programming | 성일정보고등학교 |
