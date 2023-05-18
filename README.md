@@ -65,7 +65,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 **My Career :** 
-
 | Type | Date | Subject | Organization |
 | ---- | ---- | ---- | ---- |
 | Teacher | 2002.06 ~ 2004.02 | 정보교과목 | 밀양세종고등학교 |
@@ -73,4 +72,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
 | Teacher | 2011.03 ~ 현재 | Web Programming | 성일정보고등학교 |
 
+**My Study :**
+| No | Date | Subject | Organization |
+| ---- | ---- | ---- | ---- |
+| 1 | 2021.08 ~ 현재 | 인공지능융합전공 | 경인교대 대학원 |
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
