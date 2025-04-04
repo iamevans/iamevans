@@ -71,10 +71,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 | Teacher | 2004.03 ~ 2009.02 | Web Programming | 성일정보고등학교 |
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
 | Teacher | 2011.03 ~ 2023.02 | Web Programming | 성일정보고등학교 |
-| Teacher | 2024.03 ~ 현재 | 1.BigData Analysis 2.Data Sturcture | 성일정보고등학교 |
+| Teacher | 2024.03 ~ 2025.02 | 1.BigData Analysis 2.Data Sturcture | 성일정보고등학교 |
+| Teacher | 2025.03 ~ 현재 | DataBase Programming | 성일정보고등학교 |
 
 **My Study :**
 | No | Date | Subject | Organization |
 | ---- | ---- | ---- | ---- |
-| 1 | 2021.08 ~ 2024.08 | 인공지능융합전공 | 경인교대 대학원 |
+| 1 | 2021.08 ~ 2025.02.14 | 인공지능융합전공 졸업| 경인교대 대학원 |
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
