@@ -72,7 +72,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
 | Teacher | 2011.03 ~ 2023.02 | Web Programming | 성일정보고등학교 |
 | Teacher | 2024.03 ~ 2025.02 | 1.BigData Analysis 2.Data Sturcture | 성일정보고등학교 |
-| Teacher | 2025.03 ~ 현재 | DataBase Programming | 성일정보고등학교 |
+| Teacher | 2025.03 ~ 현재 | 수업과목 : DataBase Programming | 성일정보고등학교 |
+| Teacher | 2025.03 ~ 현재 | 업무 : 3-12 도제반담임 | 성일정보고등학교 |
 
 **My Study :**
 | No | Date | Subject | Organization |
